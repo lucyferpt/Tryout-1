@@ -1,9 +1,15 @@
-# Create yours!
+# Create yours!                                         |
+                                                        |
+                                                        |
+                                                     \     /
+                                                      \   /
+                                                       \ /
+                                                        V
 
-#### 1. Get your HEROKU account				   |
-###  2. When is the best time to plant a tree? |
-##   3. Answer further bellow!				  \ /
-#    4. This is what you need to get started   V
+#### 1. Get your HEROKU account				             
+###  2. When is the best time to plant a tree?  
+##   3. Answer further bellow!				              
+#    4. This is what you need to get started     
 
 
 - [step1] Create a <a href="https://signup.heroku.com/" target="_blank">Heroku account</a> (Make sure to set your primary language as "Node")
