@@ -34,7 +34,7 @@ Remember to patch up relevant pieces of information and build your own apps, eve
   #CMD-->npm install      
   #CMD-->heroku local web
   
-You can use both npm and Heroku to run localhost, even liveserver on VSC if you dare...
+You can use both npm and Heroku to run localhost, even liveserver on VSC if you dare...  
 I recommend which ever goes live first, don't ask me why which one cause that would be too much iron for the cast, just joking..  
 Don't make me get the big guns.
 
