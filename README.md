@@ -20,6 +20,7 @@
 - [step1] Create a <a href="https://signup.heroku.com/" target="_blank">Heroku account</a> (Make sure to set your primary language as "Node")
 - [step2] Download and install <a href="https://toolbelt.heroku.com/" target="_blank">Heroku's command line tools</a>
 - [step3] Create a <a href="https://github.com/join" target="_blank">GitHub account</a>
+- [step3] Create a <a href="https://github.com/join" target="_blank">Learn commands... or download Github Desktop</a>
 - [step4] Download and install <a href="https://help.github.com/articles/set-up-git/#setting-up-git" target="_blank">git (GitHub's command line tool)</a>
 - [step5] Download and install <a href="https://nodejs.org/en/download/" target="_blank">Node.js</a>
 - [step6] Download and install a text editor (we recommend <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a>)
