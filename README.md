@@ -30,10 +30,17 @@ Remember to patch up relevant pieces of information and build your own apps, eve
 # ********************************************************************
 #  Heroku/NPM Local Web Relevants Comands By Order
   #CMD-->heroku create (3X max, more than go to Heroku apps delete but one.)
-  #CMD-->pip install npm           (ONCE)
-  #CMD-->npm install
+  #CMD-->pip install npm           (ONCE per localhost offline, make sure your in correct folder.)
+  #CMD-->npm install      
   #CMD-->heroku local web
   
+You can use both npm and Heroku to run localhost, even liveserver on VSC if you dare...
+I recommend which ever goes live first, don't ask me why which one cause that would be too much iron for the cast, just joking, don't make me get the big guns.
+
+The recommendations are to make sure your a reader & proactive user when it comes to writing.
+
+GRATIAS MIHI POSTEA
+
   Your app should be running on port 5000.
 #### 2. Interested?
 May I suggest.. That you check this out if you ever wanted to have your own running piece of code, whatever it may be such as.. YK YK 
