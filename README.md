@@ -20,10 +20,10 @@
 - [step1] Create a <a href="https://signup.heroku.com/" target="_blank">Heroku account</a> (Make sure to set your primary language as "Node")
 - [step2] Download and install <a href="https://toolbelt.heroku.com/" target="_blank">Heroku's command line tools</a>
 - [step3] Create a <a href="https://github.com/join" target="_blank">GitHub account</a>
-- [step3] Create a <a href="https://github.com/join](https://desktop.github.com/" target="_blank">Learn commands... or download Github Desktop</a>
-- [step4] Download and install <a href="https://help.github.com/articles/set-up-git/#setting-up-git" target="_blank">git (GitHub's command line tool)</a>
-- [step5] Download and install <a href="https://nodejs.org/en/download/" target="_blank">Node.js</a>
-- [step6] Download and install a text editor (we recommend <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a>)
+- [step4] Create a <a href="https://github.com/join](https://desktop.github.com/" target="_blank">Learn commands... or download Github Desktop</a>
+- [step5] Download and install <a href="https://help.github.com/articles/set-up-git/#setting-up-git" target="_blank">git (GitHub's command line tool)</a>
+- [step6] Download and install <a href="https://nodejs.org/en/download/" target="_blank">Node.js</a>
+- [step7] Download and install a text editor (we recommend <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a>)
 Use Google to search for any error messages you receive when installing the tools. Google is a great resource to get through roadblocks like these.
 
 Remember to patch up relevant pieces of information and build your own apps, eventualling your rolling version will be past staging, publishing is up to you!
