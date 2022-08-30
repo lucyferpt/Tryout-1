@@ -28,7 +28,7 @@ Use Google to search for any error messages you receive when installing the tool
 
 Remember to patch up relevant pieces of information and build your own apps, eventualling your rolling version will be past staging, publishing is up to you!
 # ***********************************************************
-#  Heroku/NPM Local Web Relevants Comands By Order
+#  Heroku/NPM Local Web Relevant Commands By Order
   #CMD-->heroku create (3X max, more than go to Heroku apps delete but one.)
   #CMD-->pip install npm           (ONCE per localhost offline, make sure your in correct folder.)
   #CMD-->npm install express
