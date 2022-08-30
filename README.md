@@ -35,9 +35,9 @@ Best time to plant a tree was 10 years ago!
 
 2nd best time..?
 
-Stay Good, & carpe diem.. with care!
+# Stay Good, & carpe diem.. with care!
 
-EST JA SANITEM
+# EST JA SANITEM
 
- =)
+# =)
   
