@@ -29,6 +29,12 @@ Check Python related on Instagram, full of ideas.
 
 Don't be used by Social Media, use it for your benefit.
 
+# Answer
+
+Best time to plant a tree was 10 years ago!
+
+2nd best time..?
+
 Stay Good, & carpe diem.. with care!
 
 EST JA SANITEM
