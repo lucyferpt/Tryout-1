@@ -35,9 +35,11 @@ Remember to patch up relevant pieces of information and build your own apps, eve
   #CMD-->heroku local web
   
 You can use both npm and Heroku to run localhost, even liveserver on VSC if you dare...
-I recommend which ever goes live first, don't ask me why which one cause that would be too much iron for the cast, just joking, don't make me get the big guns.
+I recommend which ever goes live first, don't ask me why which one cause that would be too much iron for the cast, just joking..  
+Don't make me get the big guns.
 
-The recommendations are to make sure your a reader & proactive user when it comes to writing.
+The recommendations are to make sure your a reader & proactive user when it comes to writing..  
+Oh and use Github Desktop if you want to avoid training your CMD Skills.
 
 GRATIAS MIHI POSTEA
 
