@@ -1,6 +1,6 @@
 # Create yours!                                         
 
-                                                        |
+                          Installed?                    |
                                                         |
                                                         |
                                                         |
@@ -26,6 +26,15 @@
 - [step6] Download and install a text editor (we recommend <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a>)
 Use Google to search for any error messages you receive when installing the tools. Google is a great resource to get through roadblocks like these.
 
+Remember to patch up relevant pieces of information and build your own apps, eventualling your rolling version will be past staging, publishing is up to you!
+# ********************************************************************
+#  Heroku/NPM Local Web Relevants Comands By Order
+  #CMD-->heroku create (3X max, more than go to Heroku apps delete but one.)
+  #CMD-->pip install npm           (ONCE)
+  #CMD-->npm install
+  #CMD-->heroku local web
+  
+  Your app should be running on port 5000.
 #### 2. Interested?
 May I suggest.. That you check this out if you ever wanted to have your own running piece of code, whatever it may be such as.. YK YK 
 
