@@ -1,1 +1,1 @@
-web: node project/start.js
+web: web: bundle exec rails server -p $PORT
