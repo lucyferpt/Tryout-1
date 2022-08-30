@@ -1,1 +1,1 @@
-web: server -p 5000
+web: -p 5000
