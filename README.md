@@ -29,11 +29,11 @@ Use Google to search for any error messages you receive when installing the tool
 Remember to patch up relevant pieces of information and build your own apps, eventualling your rolling version will be past staging, publishing is up to you!
 # ***********************************************************
 #  Heroku/NPM Local Web Relevant Commands By Order
-  #CMD-->heroku create (3X max, more than go to Heroku apps delete but one.)
-  #CMD-->pip install npm           (ONCE per localhost offline, make sure your in correct folder.)
-  #CMD-->npm install express
-  #CMD-->npm install
+  #CMD-->heroku create (Keep track of your apps on Heroku.com, only need one to start with.. Use Heroku restart/ Heroku restart -a $appname for closure.)
+  #CMD-->pip install npm           (ONCE per time localhost goes offline, make sure your in correct folder.)
   #CMD-->heroku local web
+
+If you get a 'cannot get' error, restart the local host, only has been set up using initial DOM.
   
 You can use both npm and Heroku to run localhost, even liveserver on VSC if you dare...  
 I recommend which ever goes live first, don't ask me why which one cause that would be too much iron for the cast, just joking..  
