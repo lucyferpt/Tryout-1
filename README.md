@@ -1,15 +1,14 @@
 # Create yours!                                         
 
-                          Installed?                    |
-                                                        |
-                                                        |
-                                                        |
-                                                        |
-                                                        |
-                                                     \     /
-                                                      \   /
-                                                       \ /
-                                                        V
+                          Installed?                                                            |
+                                                                                                |
+                                                                                                |
+                                                                                                |
+                                                                                                |
+                                                                                             \     /
+                                                                                              \   /
+                                                                                               \ /
+                                                                                                V
 
 #### 1. Get your HEROKU account				             
 ###  2. When is the best time to plant a tree?  
