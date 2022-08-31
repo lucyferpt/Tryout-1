@@ -32,6 +32,7 @@ Remember to patch up relevant pieces of information and build your own apps, eve
   #CMD-->heroku create (Keep track of your apps on Heroku.com, only need one to start with.. <br>
   Use Heroku restart/ Heroku restart -a $appname for closure.)<br>
   #CMD-->pip install npm           (ONCE per time localhost goes offline, make sure your in correct folder.)<br>
+  #CMD-->npm install <br>
   #CMD-->heroku local web<br>
 
 If you get a 'cannot get' error, restart the local host, only has been set up using initial DOM.
