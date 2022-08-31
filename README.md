@@ -32,7 +32,6 @@ Remember to patch up relevant pieces of information and build your own apps, eve
   #CMD-->heroku create (Keep track of your apps on Heroku.com, only need one to start with.. <br>
   Use Heroku restart/ Heroku restart -a $appname for closure.)<br>
   #CMD-->pip install npm           (ONCE)<br>
-  
   #CMD-->npm install (ONCE per time localhost goes offline, make sure your in correct folder.)<br>
   #CMD-->heroku local web<br>
 
