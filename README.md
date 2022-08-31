@@ -27,7 +27,7 @@
 Use Google to search for any error messages you receive when installing the tools. Google is a great resource to get through roadblocks like these.
 
 Remember to patch up relevant pieces of information and build your own apps, eventualling your rolling version will be past staging, publishing is up to you!
-# ***********************************************************
+
 #  Heroku/NPM Local Web Relevant Commands By Order
   #CMD-->heroku create (Keep track of your apps on Heroku.com, only need one to start with.. <br>
   #CMD-->pip install npm           (ONCE)<br>
