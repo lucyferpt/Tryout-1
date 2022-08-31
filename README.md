@@ -30,10 +30,11 @@ Remember to patch up relevant pieces of information and build your own apps, eve
 # ***********************************************************
 #  Heroku/NPM Local Web Relevant Commands By Order
   #CMD-->heroku create (Keep track of your apps on Heroku.com, only need one to start with.. <br>
-  Use Heroku restart/ Heroku restart -a $appname for closure.)<br>
   #CMD-->pip install npm           (ONCE)<br>
   #CMD-->npm install (ONCE per time localhost goes offline, make sure your in correct folder.)<br>
   #CMD-->heroku local web<br>
+
+Use Heroku restart/ Heroku restart -a $appname for closure. <br>
 
 If you get a 'cannot get' error, restart the local host, only has been set up using initial DOM.
   
