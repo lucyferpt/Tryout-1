@@ -29,7 +29,8 @@ Use Google to search for any error messages you receive when installing the tool
 Remember to patch up relevant pieces of information and build your own apps, eventualling your rolling version will be past staging, publishing is up to you!
 # ***********************************************************
 #  Heroku/NPM Local Web Relevant Commands By Order
-  #CMD-->heroku create (Keep track of your apps on Heroku.com, only need one to start with.. Use Heroku restart/ Heroku restart -a $appname for closure.)<br>
+  #CMD-->heroku create (Keep track of your apps on Heroku.com, only need one to start with.. <br>
+  Use Heroku restart/ Heroku restart -a $appname for closure.)<br>
   #CMD-->pip install npm           (ONCE per time localhost goes offline, make sure your in correct folder.)<br>
   #CMD-->heroku local web<br>
 
